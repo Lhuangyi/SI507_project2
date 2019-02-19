@@ -20,13 +20,11 @@
 #### 2. SI507_project2.py
     In SI507_project2.py, I build a simple Flask app which has two routes:
       - / (home page) : Displays in <h1> html tag: <number> movies recorded. 
-![Image text]
-(https://github.com/Lhuangyi/SI507_project2/blob/master/images/homepage.png)
+![Image text](https://github.com/Lhuangyi/SI507_project2/blob/master/images/homepage.png)
 
-- /movies/ratings/ :Through creating an instance variable m of class Movies and using the method __str__( ), display a lsit of six random movies and the corresponding ratings with the following format: Movie Title | IMBD rating
+      - /movies/ratings/ :Through creating an instance variable m of class Movies and using the method __str__( ), display a lsit of six random movies and the corresponding ratings with the following format: Movie Title | IMBD rating
 
-![Image text]
-(https://github.com/Lhuangyi/SI507_project2/blob/master/images/movies_ratings_page.png)
+![Image text](https://github.com/Lhuangyi/SI507_project2/blob/master/images/movies_ratings_page.png)
       
       
       
